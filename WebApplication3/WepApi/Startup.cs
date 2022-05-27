@@ -10,6 +10,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Application.Services;
+using Application.Services.Interfaces;
 
 namespace WepApi
 {
@@ -26,6 +28,9 @@ namespace WepApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddTransient<IUserService, UserService>();
+            services.AddTransient<IFileLoader, FileLoader>();
+          //  services.AddTransient<IFileLoader, FileLoader>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

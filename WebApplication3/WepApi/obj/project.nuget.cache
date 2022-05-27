@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jROmt0TPEX+gRkq8wQdnON6kRirV4SSE5OQfk8AGtGRJXTqX5bQBMgYOMogjvc0boKe/b0tiWyQLvVGQ/EwlYA==",
+  "dgSpecHash": "nL16cPBFswoSwK3GeQ6Eao9Ri3o8oXrCWuFMNM3ikaL5Vf+s7ATL0Zs8D1+rok0wlx7m/hZ1LDwuaUMA8Ld+dQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pmahamuni\\Source\\Repos\\jsonfileApp\\WebApplication3\\WepApi\\WepApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pmahamuni\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

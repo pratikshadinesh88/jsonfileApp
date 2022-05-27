@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "WebApplication3\MVCApp.csproj", "{DAC11C66-82BE-46A5-8B0D-C9B8448030DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCApp", "WebApplication3\MVCApp.csproj", "{DAC11C66-82BE-46A5-8B0D-C9B8448030DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepApi", "WepApi\WepApi.csproj", "{A1692280-6BF8-41C9-B49C-AE928C69F484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WepApi", "WepApi\WepApi.csproj", "{A1692280-6BF8-41C9-B49C-AE928C69F484}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "ClassLibrary1\Application.csproj", "{6843E308-CCF3-4DAD-9D43-474391491688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "ClassLibrary1\Application.csproj", "{6843E308-CCF3-4DAD-9D43-474391491688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
